@@ -1,2 +1,2 @@
 # sinatra
-let's build a Sinatra... from thoughtbots.com
+let's build a Sinatra... from thoughtbot.com
